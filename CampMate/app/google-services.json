@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "741399965814",
+    "project_id": "campmate-ee4f7",
+    "storage_bucket": "campmate-ee4f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741399965814:android:ed0ae07115aadc2675ef57",
+        "android_client_info": {
+          "package_name": "com.pejic.campmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm7t9MSgW2dKBUbgGr4syhoO20AjP7aPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
